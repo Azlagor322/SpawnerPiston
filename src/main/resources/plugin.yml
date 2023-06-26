@@ -1,0 +1,4 @@
+name: SpawnerPiston
+version: '${version}'
+main: com.azlagor.spawnerpiston.SpawnerPiston
+api-version: '1.19'
